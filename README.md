@@ -79,6 +79,8 @@ Given the time expectations of this exercise, we don't expect anyone to submit a
 
 - [ ] Add `tonomb` as a Reviewer on the Pull-request 
 
+- [ ] Add any documentation needed to run your code. (Unless specified, we will only run `npm start` to start up the client and `npm run server` to start the server
+
 - [ ] We will count the project as recived by  merging the branch back into master. Let us know you are done via e-mail. We'll review your code within 1-2 days.
 
 Thank you and good luck! 🙏
